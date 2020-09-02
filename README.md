@@ -10,7 +10,7 @@ zoomeye-search is a standalone, lightweight python script for fetching IPs from 
 ## Install
 
 ```
-git clone https://github.com/MD5HashBrowns/zoomeye-search.git
+git clone https://github.com/mobobodigital/zoomeye-search.git
 cd zoomeye-search
 ./zoomeye.py -h
 ```
