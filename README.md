@@ -112,4 +112,5 @@ You can enable multithreading for faster parsing, file output required.
 
 ```
 $ ./zoomeye.py -p 1 -q app:wordpress --multi -s
+./zoomeye.py -p 100 -q 'title:"Laravel"' --multi -s laravel.txt
 ```
